@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushgiitian" alt="piyushgiitian" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain technologies**
-
+<!-- 
 - 👨‍💻 All of my projects are available at [https://piyushgiitian.vercel.app/](https://piyushgiitian.vercel.app/)
-
+ -->
 - 💬 Ask me about **react, unity, entrepreneurship**
 
 - 📫 How to reach me **piyushgautamtg@gmail.com**
