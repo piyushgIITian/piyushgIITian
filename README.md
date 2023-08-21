@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Gautam</h1>
-<h3 align="center">Incoming Software Intern at Piramal | 4th year student at IIT Kharagpur</h3>
+<h3 align="center">Upcoming Software Developer at Piramal Finance | 5th year student at IIT Kharagpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushgiitian&label=Profile%20views&color=0e75b6&style=flat" alt="piyushgiitian" /> </p>
 
