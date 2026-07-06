@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Piyush 👋</h1>
-<h3 align="center">Senior Software Engineer @ SigmaRed · Incoming MSCS @ NYU '26</h3>
+<h3 align="center">Senior Software Engineer</h3>
 <p align="center"><i>From transistors to tensors to pixels — first principles, all the way up.</i></p>
 
 <p align="center">
