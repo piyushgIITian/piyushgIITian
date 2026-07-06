@@ -13,9 +13,9 @@
 
 ### About
 
-- 🔭 Currently shipping **AI agents, multi-agent systems, and LLM workflows** at **SigmaRed** (Bengaluru)
+- 🔭 Currently shipping **AI agents, multi-agent systems, and LLM workflows** 
 - 🛠️ Past lives: real-time 3D avatars + AI motion capture at **Flam**, LLM tooling at **Piramal Capital**
-- 🎓 **IIT Kharagpur '24** → relocating to NYC for **MSCS @ NYU '26**
+- 🎓 **IIT Kharagpur '24 Dual Degree Engineering Product Design** 
 - 🌱 Currently learning: compilers, GPU programming, distributed inference
 - 💬 Ask me about: TypeScript, Python, agents, real-time 3D, or building from NAND
 - 📫 Reach me at **piyushgautamtg@gmail.com**
